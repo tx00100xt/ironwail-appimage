@@ -8,3 +8,6 @@ StartupNotify=true
 Terminal=false
 Type=Application
 Keywords=quake;ironwail;first;person;shooter;multiplayer;
+X-AppImage-License=MIT
+X-AppImage-Payload-License=MIT
+X-AppImage-Version=ce9d368
