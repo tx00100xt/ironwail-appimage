@@ -1,6 +1,6 @@
 Sauerbraten AppImage
 --------------------
-[![Build status](https://github.com/tx00100xt/ironwail-appimage/actions/workflows/cibuild.yml/badge.svg)](https://github.com/tx00100xt//ironwail-appimage/actions/)
+[![Build status](https://github.com/tx00100xt/ironwail-appimage/actions/workflows/appimage_ci.yml/badge.svg)](https://github.com/tx00100xt//ironwail-appimage/actions/)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/tx00100xt/ironwail-appimage)](https://github.com/tx00100xt/ironwail-appimage/releases/tag/0.8.0)
 [![Github downloads](https://img.shields.io/github/downloads/tx00100xt/ironwail-appimage/total.svg?logo=github&logoColor=white&style=flat-square&color=E75776)](https://github.com/tx00100xt/ironwail-appimage/releases/)
@@ -35,7 +35,7 @@ You can place game data in these paths before starting the game. Then the game w
 ### Build status
 |CI|Platform|Compiler|Configurations|Platforms|Status|
 |---|---|---|---|---|---|
-|GitHub Actions|Ubuntu|GCC|Release|x64|![GitHub Actions Build Status](https://github.com/tx00100xt/ironwail-appimage/actions/workflows/cibuild.yml/badge.svg)
+|GitHub Actions|Ubuntu|GCC|Release|x64|![GitHub Actions Build Status](https://github.com/tx00100xt/ironwail-appimage/actions/workflows/appimage_ci.yml/badge.svg)
 
 You can download a the automatically build based on the latest commit.  
 To do this, go to the [Actions tab], select the top workflows, and then Artifacts.
