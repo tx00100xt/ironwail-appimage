@@ -1,4 +1,4 @@
-Sauerbraten AppImage
+ironwail AppImage
 --------------------
 [![Build status](https://github.com/tx00100xt/ironwail-appimage/actions/workflows/appimage_ci.yml/badge.svg)](https://github.com/tx00100xt//ironwail-appimage/actions/)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
